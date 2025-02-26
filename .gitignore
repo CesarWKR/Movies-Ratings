@@ -1,0 +1,12 @@
+# Ignorar entornos virtuales
+venv/
+__pycache__/
+*.pyc 
+*.pyo
+
+# Archivos de configuración y credenciales
+.env
+
+# Archivos de caché y logs
+*.log
+*.sqlite
