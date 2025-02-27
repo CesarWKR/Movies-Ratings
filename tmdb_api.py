@@ -1,4 +1,4 @@
-# Obtiene películas populares de la API de TMDb
+# Obtiene películas populares de la API de TMDb y las muestra en la consola
 import requests
 from config import API_KEY, BASE_URL
 
